@@ -1,12 +1,11 @@
-test github
+	test github
 do something in the text.
 and go to check out 
-<<<<<<< HEAD
 
 no check out no check out 
-=======
+
 zzzzzzzzzzz
->>>>>>> bed966f1895ec7683d6766c0715b666fb2d18391
+
 wl....
 asdvasdDDDDDDDDDDDDDDDDDDDDDDDDDDD
 ddddddd
@@ -14,4 +13,4 @@ d
 d
 d
 d
-test2 提交
+	test2 提交
